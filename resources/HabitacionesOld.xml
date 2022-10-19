@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Habitaciones>
+  <Habitacion numHabitacion="301" preciodia="84">
+    <codHotel>H10</codHotel>
+    <Estancias>
+      
+      
+      
+    </Estancias>
+  <Archivados><Cliente fechaFin="2019-01-01" fechaInicio="2018-01-01" pagado="pagado">Juan Perez</Cliente><Cliente fechaFin="2017-06-01" fechaInicio="2017-01-01" pagado="pagado">Pedro Lopez Mendez</Cliente><Cliente fechaFin="2016-05-08" fechaInicio="2016-03-01" pagado="pagado">Maria Rodriguez Marquez</Cliente></Archivados></Habitacion>
+  <Habitacion numHabitacion="302" preciodia="76">
+    <codHotel>Riu1</codHotel>
+    <Estancias>
+      
+      
+    </Estancias>
+  <Archivados><Cliente fechaFin="2019-06-01" fechaInicio="2018-02-01" pagado="pagado">Victor Gonzalez Ramos</Cliente><Cliente fechaFin="2016-06-01" fechaInicio="2016-01-01" pagado="pagado">Mario Arteaga Mendez</Cliente></Archivados></Habitacion>
+  <Habitacion numHabitacion="501" preciodia="50">
+    <codHotel>Sol3</codHotel>
+    <Estancias>
+      
+      
+      
+      <Cliente fechaFin="2016-03-08" fechaInicio="2016-03-01">Raquel Mateo Umpierrez</Cliente>
+    </Estancias>
+  <Archivados><Cliente fechaFin="2018-09-01" fechaInicio="2017-05-01" pagado="pagado">Raquel Mateo Umpierrez</Cliente><Cliente fechaFin="2017-04-01" fechaInicio="2017-01-01" pagado="pagado">Teresa Gutierrez Estevez</Cliente><Cliente fechaFin="2018-08-08" fechaInicio="2017-06-01" pagado="pagado">Roberto Fajardo Lopez</Cliente></Archivados></Habitacion>
+  <Habitacion numHabitacion="401" preciodia="120">
+    <codHotel>Luna4</codHotel>
+    <Estancias>
+      <Cliente fechaFin="2018-09-01" fechaInicio="2017-05-01">Maria Rodriguez Marquez</Cliente>
+      <Cliente fechaFin="2017-04-01" fechaInicio="2017-01-01">Luis Martinez Estevez</Cliente>
+      <Cliente fechaFin="2017-08-08" fechaInicio="2017-06-01">Carlos Perez Lopez</Cliente>
+      <Cliente fechaFin="2016-03-08" fechaInicio="2016-03-01">Jose Maria Martinez Bacallado</Cliente>
+    </Estancias>
+  </Habitacion>
+</Habitaciones>
